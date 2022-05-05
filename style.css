@@ -5,13 +5,13 @@ body{
 .quadrado{
     text-align: center;
     width: 50px;
-    background: #eee;
+    background: #EEE;
     display: inline-block;
     padding: 40px;
     font-size: 60px;
     margin: 5px;
     cursor: pointer;
-    color: #eee;
+    color: #EEE;
 }
 
 .jogador, .vencedor{
@@ -23,6 +23,6 @@ button{
     margin-top: 10px;
     width: 100px;
     height: 30px;
-    background: #eee;
+    background: #EEE;
     cursor: pointer;
 }
